@@ -1,0 +1,16 @@
+name: minimap2
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - k8=0.2.5=hdcf5f25_4
+  - libgcc-ng=13.2.0=h807b86a_0
+  - libgomp=13.2.0=h807b86a_0
+  - libstdcxx-ng=13.2.0=h7e041cc_0
+  - libzlib=1.2.13=hd590300_5
+  - minimap2=2.26=he4a0461_1
+  - zlib=1.2.13=hd590300_5
+prefix: /home/dzhou/miniconda3/envs/minimap2

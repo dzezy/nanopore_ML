@@ -1,0 +1,9 @@
+data/
+models/
+output/
+parquets/
+work/
+.nextflow*
+*.log
+*.html
+
